@@ -1,5 +1,5 @@
 # Diario
 
-### Entre em contato:
+//### Entre em contato:
 
-[vitor gregório](https://www.facebook.com/vitor.gregorio.10).
+//[vitor gregório](https://www.facebook.com/vitor.gregorio.10).
